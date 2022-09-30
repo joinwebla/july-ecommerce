@@ -64,7 +64,7 @@ export const ProductFeed = () => {
     return(
         <>
             <div style={{textAlign: 'center'}}>
-                <h1>My Shopping Place</h1>
+                <h1>Product Street</h1>
                 <button className="btn btn-danger" onClick={handleLogout}>Logout</button>
 
                 <div style={{
